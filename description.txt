@@ -1,0 +1,7 @@
+Question 1.1
+
+
+Explanation:
+The SCHED_OTHER
+
+Question 1.2
